@@ -1,0 +1,13 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Temp
+*.tmp
+*.log
+
+# Node / build noise (future safe)
+node_modules/
+
+# Editor
+.vscode/

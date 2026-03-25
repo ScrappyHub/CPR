@@ -1,0 +1,12 @@
+{"packet_id":"2b35ada3a93956ef99fc549be0a10ff9bcca0bd44cc25f2df1b356a747eb3f1f","result":"PASS","event_type":"verify","packet_rel":"proofs/receipts/selftest_packet","schema":"cpr.receipt.v1"}
+{"result":"PASS","event_type":"selftest","schema":"cpr.receipt.v1","vector_rel":"test_vectors/packet_constitution_v1/minimal"}
+{"packet_rel":"outbox/32312e887653d017e34fb6aa425d700d5a62703427ad4579d83de60c8117da93","result":"PASS","packet_id":"32312e887653d017e34fb6aa425d700d5a62703427ad4579d83de60c8117da93","out_dir":"C:/dev/cpr/outbox","input_dir":"C:/dev/cpr/sample_input","event_type":"build","schema":"cpr.receipt.v1"}
+{"packet_id":"32312e887653d017e34fb6aa425d700d5a62703427ad4579d83de60c8117da93","result":"PASS","event_type":"verify","packet_rel":"outbox/32312e887653d017e34fb6aa425d700d5a62703427ad4579d83de60c8117da93","schema":"cpr.receipt.v1"}
+{"packet_id":"2b35ada3a93956ef99fc549be0a10ff9bcca0bd44cc25f2df1b356a747eb3f1f","result":"PASS","event_type":"verify","packet_rel":"proofs/receipts/selftest_packet","schema":"cpr.receipt.v1"}
+{"negatives":["manifest_contains_packet_id","packet_id_mismatch","sha256_mismatch"],"result":"PASS","event_type":"selftest","schema":"cpr.receipt.v1","vector_rel":"test_vectors/packet_constitution_v1/minimal"}
+{"packet_id":"2b35ada3a93956ef99fc549be0a10ff9bcca0bd44cc25f2df1b356a747eb3f1f","result":"PASS","event_type":"verify","packet_rel":"proofs/receipts/selftest_packet","schema":"cpr.receipt.v1"}
+{"negatives":["manifest_contains_packet_id","packet_id_mismatch","sha256_mismatch"],"result":"PASS","event_type":"selftest","schema":"cpr.receipt.v1","vector_rel":"test_vectors/packet_constitution_v1/minimal"}
+{"result":"PASS","selftest_token":"CPR_SELFTEST_OK","event_type":"full_green","schema":"cpr.receipt.v1"}
+{"packet_id":"2b35ada3a93956ef99fc549be0a10ff9bcca0bd44cc25f2df1b356a747eb3f1f","result":"PASS","event_type":"verify","packet_rel":"proofs/receipts/selftest_packet","schema":"cpr.receipt.v1"}
+{"negatives":["manifest_contains_packet_id","packet_id_mismatch","sha256_mismatch"],"result":"PASS","event_type":"selftest","schema":"cpr.receipt.v1","vector_rel":"test_vectors/packet_constitution_v1/minimal"}
+{"result":"PASS","selftest_token":"CPR_SELFTEST_OK","event_type":"full_green","schema":"cpr.receipt.v1"}
