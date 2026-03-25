@@ -1,3 +1,0 @@
-2b35ada3a93956ef99fc549be0a10ff9bcca0bd44cc25f2df1b356a747eb3f1f  manifest.json
-714703263696ffecdf12dd83c5f93ae955f3de05cd62a0d7147eddc853903c2c  packet_id.txt
-5fb098096672bc5692638f1c6d5bccc489687b097f393b0ed626fba3ffea7702  payload/hello.txt
